@@ -101,7 +101,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: https://res.cloudinary.com/notee/image/upload/v1640411291/notes/imgseo.jpg
+      image: Gold-Lio.github.io/img/Cool-Lion-Wallpaper-HD.jpg
   - 
     scope:
       path: ""
