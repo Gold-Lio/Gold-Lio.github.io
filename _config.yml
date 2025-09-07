@@ -1,8 +1,7 @@
-site: JDox
-title: JDox
+site: gold-lio.github.io
+title: gold-lio.github.io
 greetings: Hi 👋
-description: >-
-  JDox is Jekyll blog theme powered by Github Pages
+description: >- Gold-Lio's personal blog powered by Github Pages
 lang: en
 image: https://res.cloudinary.com/notee/image/upload/v1640411291/notes/imgseo.jpg
 timezone:  Asia/Jakarta
